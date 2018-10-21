@@ -1,0 +1,4 @@
+Este archivo es para el ejercicio 1 del curso
+
+Esto lo modifico en local y también modificando el archivo desde github.
+
